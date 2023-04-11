@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://c4terina.github.io/blog'
 languageCode = 'en-us'
 title = 'wired'
 theme= "risotto"
