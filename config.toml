@@ -1,7 +1,7 @@
 baseURL = "https://c4terina.github.io/blog/"
 theme = "risotto"
 title = "wired"
-author = "Joe Roe"
+author = "C4Terina"
 copyright = "© 2023 C4Terina"
 paginate = 3
 languageCode = "en"
