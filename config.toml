@@ -1,6 +1,6 @@
 baseURL = "https://c4terina.github.io/blog/"
 theme = "risotto"
-title = "wired"
+title = ":3"
 author = "C4Terina"
 copyright = "© 2023 C4Terina"
 paginate = 3
@@ -23,7 +23,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Socials"
-description = "if u want to contact me :3"
+description = "if u want to contact me"
 #logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -41,11 +41,15 @@ icon = "fa-solid fa-envelope"
 title = "Email"
 url = "mailto:kapa97531@gmail.com"
 
-#[[params.socialLinks]]
-#icon = "fa-brands fa-linkedin"
-#title = "ORCID"
-#url = "https://orcid.org/0000-0001-2345-6789"
+[[params.socialLinks]]
+icon = "fa-brands fa-spotify"
+title = "Spotify"
+url = "https://open.spotify.com/user/ianite?si=5b67a4ca0e0241fc"
 
+[[params.socialLinks]]
+icon = "fa-brands fa-discord"
+title = "Katerina#9709"
+url = ""
 [menu]
 
   [[menu.main]]

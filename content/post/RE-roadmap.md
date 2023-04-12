@@ -7,7 +7,7 @@ tags = [
     "reverse-engineering",
 ]
 +++
-My beginner fliendly "guide" on how to learn reverse engineering. 
+My beginner fliendly "guide" on how to get started with reverse engineering. 
 <!--more-->
 After 22 long years of self discovery and therapy I've come to the realization that I really like being good at things that make me suffer mentally. This is why in 2022 I've started showing interest in the reverse engineering industry. Ever since I've collected a lot of material that has helped me in my learning journey and that I will share with you. 
 
